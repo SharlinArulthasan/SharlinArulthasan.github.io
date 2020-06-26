@@ -1,1 +1,5 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+## Phi Dunphys Persöhnlichkeiten
+* Cooler Dad
+* träumerisch
+* Naive
+* Magier
